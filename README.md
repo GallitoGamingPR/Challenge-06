@@ -6,5 +6,5 @@ For today's project we will be creating a mini game where we will implement ever
 3. We add movement and shooting to the player.
    GIF1
 
-5. Then we added the enemy spawners to all 4 corners.
+5. Then we added the enemy spawners to all 4 corners. GIF2
 
