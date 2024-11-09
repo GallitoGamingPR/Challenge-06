@@ -9,4 +9,5 @@ For today's project we will be creating a mini game where we will implement ever
    ![Shooting Point](images/gif1.gif)
 4. Then we added the enemy spawners to all 4 corners.
     ![Shooting Point](images/gif2.gif)
-
+5. We make the walls able to detect collisions with the bullets.
+   ![Shooting Point](images/gif3.gif)
