@@ -11,3 +11,6 @@ For today's project we will be creating a mini game where we will implement ever
     ![Shooting Point](images/gif2.gif)
 5. We make the walls able to detect collisions with the bullets.
    ![Shooting Point](images/gif3.gif)
+6. Then we make the floors have a box collider and a script Floors, along with a FloorManager that will be in charge of removing floors from the list.
+7. Finally we add the rain to make it harder.
+![Shooting Point](images/gif4.gif)
